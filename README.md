@@ -7,12 +7,12 @@ Combines modular structure with tone and engagement logic to support professiona
 
 ## 📂 Documentation
 
-- 🧠 **[Prompt](docs/01-poe-prompt.docx)** – main post construction assistant  
-- 📘 **[Professional Summary](docs/02 – Professional Summary – POE v1.0.docx)** – use cases and assistant scope  
-- 🧾 **[Prompt Summary Sheet](docs/03 – Prompt Summary Sheet – POE v1.0.docx)** – structural overview and key logic  
-- ⚖️ **[Legal & Attribution](docs/04 – Legal & Attribution – POE v1.0.docx)** – authorship, usage notice, and license  
-- 📑 **[Metadata & Version History](docs/05 – Metadata & Version History – POE v1.0.docx)** – file structure, version control, and change notes  
-- 🧪 **[Evaluation Snapshot](docs/06 – Evaluation Snapshot – POE v1.0.docx)** – informal UX and quality highlights  
+- 🧠 [Prompt](docs/01-poe-prompt.docx) – main post construction assistant  
+- 📘 [Professional Summary](docs/02 – Professional Summary – POE v1.0.docx) – use cases and assistant scope  
+- 🧾 [Prompt Summary Sheet](docs/03 – Prompt Summary Sheet – POE v1.0.docx) – structural overview and key logic  
+- ⚖️ [Legal & Attribution](docs/04 – Legal & Attribution – POE v1.0.docx) – authorship, usage notice, and license  
+- 📑 [Metadata & Version History](docs/05 – Metadata & Version History – POE v1.0.docx) – file structure, version control, and change notes  
+- 🧪 [Evaluation Snapshot](docs/06 – Evaluation Snapshot – POE v1.0.docx) – informal UX and quality highlights  
 
 ---
 
