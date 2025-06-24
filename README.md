@@ -1,7 +1,8 @@
 # poe-post-writing-assistant-v1-0
 
-A voice-preserving assistant for transforming rough thoughts into LinkedIn-ready posts.  
-Combines modular structure with tone and engagement logic to support professional, optimized updates.
+This assistant supports professionals aiming to refine tone, streamline messaging, and transform initial ideas into polished, LinkedIn-ready posts.
+
+It combines modular structure with tone and engagement logic to support professional, optimized updates.
 
 ---
 
@@ -18,7 +19,8 @@ Combines modular structure with tone and engagement logic to support professiona
 
 ## 💬 Notes
 
-This assistant was developed for professional users seeking help with writing clarity, tone consistency, and idea-to-post transformation.  
-It is particularly useful for neurodivergent users, high-load multitaskers, and those new to LinkedIn-style writing.
+POE is built to assist with clarity, consistency, and structured flexibility, especially when navigating high context communication or tight professional standards.
+
+It is particularly useful for neurodivergent users, high load multitaskers, and those new to LinkedIn-style writing.  POE also works equally well for content strategists, personal branding efforts, and anyone developing high-visibility updates.
 
 For more projects and updates, visit [AHFaria GitHub](https://github.com/AHFaria).
